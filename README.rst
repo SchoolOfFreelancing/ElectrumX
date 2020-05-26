@@ -11,7 +11,7 @@ For a future network with bigger blocks.
 
   :Licence: MIT
   :Language: Python (>= 3.7)
-  :Author: Neil Booth
+  :Author: Masum
 
 Documentation
 =============
