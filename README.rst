@@ -19,4 +19,4 @@ Documentation
 See `readthedocs <https://electrumx.readthedocs.io/>`_.
 
 
-**Neil Booth**  kyuupichan@gmail.com  https://github.com/kyuupichan
+**Masum**   
